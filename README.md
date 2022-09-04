@@ -1,2 +1,4 @@
-# AppMetrics.Prometeus.Grafana.Sample
-A sample project of using AppMetrics Library in .NetCore and connect it to Prometues and show the result in Grafana
+# Sample .NetCore project for using AppMetrics & Prometeus & Grafana By Docker
+A Sample .NetCore project (**.net6**)
+
+For run the project please type `docker-compose up` in Cmd  
